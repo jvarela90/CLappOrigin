@@ -11,6 +11,9 @@ import android.widget.Button;
  */
 public class Futcom extends Activity {
 
+
+    /*comentario en la clase*/
+
     Button btnvolver;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
